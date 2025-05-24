@@ -1,21 +1,25 @@
 ## 👋 Hi, I’m Abhishek Bargujar
 
-🚀 **Aspiring Data Scientist | Machine Learning Enthusiast | NLP & Information Retrieval Researcher**
+🚀 **Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer | NLP & Information Retrieval Researcher**
 
 ### 🔍 About Me
 - 🎓 I'm currently **pursuing Computing in Data Science**, where I explore the power of **Machine Learning, NLP, and Information Retrieval**.
 - 🏆 Passionate about **solving real-world problems** with **Python, SQL, and AI-driven solutions**.
 - 📊 Love working on **data-driven insights, predictive analytics, and automation**.
+- 🛠️ I’m especially passionate about building robust, scalable Python-based backend applications using Django and clean database design.
 
 ### 💡 Interests & Skills
 - 🤖 **Machine Learning** (Supervised & Unsupervised Learning, Model Optimization)
 - 🔍 **Natural Language Processing (NLP)** (Text Mining, Transformers, LLMs, Sentiment Analysis)
 - 📈 **Data Analytics & SQL** (Data Manipulation, Query Optimization, ETL)
+- 🛠️ **Python Backend Development** – Django
 - 📚 **Information Retrieval** (Search Engines, Ranking Models, Text Processing)
-- 🛠️ **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, SQL, Git
+- 📈 **SQL & Data Analytics** – Complex Queries, Joins, Optimization, ETL Pipelines
+- 🛠️ **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, SQL, Git, Docker
 
 ### 🤝 Collaboration & Learning
 - 💞️ Looking to collaborate on **Open-Source Data Science & NLP Projects**.
+- 💻 Always building something—whether it's a ** data product, backend service, or a real-time analytics tool.**
 - 🧠 Always learning and exploring **LLMs, Deep Learning, and Advanced Query Systems**.
 - 🔎 Actively participating in **AI research and Kaggle challenges**.
 
