@@ -25,6 +25,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: **abhishek180250@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/abhishek-bargujar-4820b2176?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
 
 ### ⚡ Fun Fact
